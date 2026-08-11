@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0704-binary-search) |
 ## Sorting
 |  |
