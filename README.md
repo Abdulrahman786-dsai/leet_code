@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0052-n-queens-ii](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0052-n-queens-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0075-sort-colors) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Abdulrahman786-dsai/leet_code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
